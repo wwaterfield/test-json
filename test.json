@@ -1,0 +1,48 @@
+{
+    "items": [
+        {
+            "value": false,
+            "runNum": "Run 6",
+            "start": "9/11/2018, 10:30:02",
+            "end": "9/11/2018, 10:30:02",
+            "dataSize": 2000,
+            "status": "In Progress",
+            "score": 87,
+            "conf_begin": "14%",
+            "conf_end": "10%"
+        },
+        {
+            "value": false,
+            "runNum": "Run 5",
+            "start": "9/11/2018, 06:12:42",
+            "end": "9/11/2018, 06:12:42",
+            "dataSize": 3722,
+            "status": "Complete",
+            "score": 129,
+            "conf_begin": "68%",
+            "conf_end": "12%"
+        },
+        {
+            "value": false,
+            "runNum": "Run 4",
+            "start": "9/10/2018, 14:01:59",
+            "end": "9/10/2018, 14:01:59",
+            "dataSize": 203,
+            "status": "Complete",
+            "score": 337,
+            "conf_begin": "92%",
+            "conf_end": "74%"
+        },
+        {
+            "value": false,
+            "runNum": "Run 3",
+            "start": "9/10/2018, 09:34:44",
+            "end": "9/10/2018, 09:34:44",
+            "dataSize": 50,
+            "status": "Cancelled",
+            "score": 413,
+            "conf_begin": "76%",
+            "conf_end": "8%"
+        }
+    ]   
+}

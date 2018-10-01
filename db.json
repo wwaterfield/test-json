@@ -2,6 +2,17 @@
     "items": [
         {
             "value": false,
+            "runNum": "Run 7",
+            "start": "9/11/2018, 10:30:02",
+            "end": "9/11/2018, 10:30:02",
+            "dataSize": 20003,
+            "status": "In Progress Test",
+            "score": 87,
+            "conf_begin": "14%",
+            "conf_end": "10%"
+        },
+        {
+            "value": false,
             "runNum": "Run 6",
             "start": "9/11/2018, 10:30:02",
             "end": "9/11/2018, 10:30:02",
